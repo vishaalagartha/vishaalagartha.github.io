@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: /
+    url: /about/
 
   - title: "Projects"
     url: /projects/    
 
   - title: "Notes"
-    url: /teaching/    
+    url: /notes/    
     
   - title: "Rockclimbing"
-    url: /portfolio/
+    url: /rockclimbing/
         
   - title: "Resume"
     url: /resume/

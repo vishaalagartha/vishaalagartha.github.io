@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
