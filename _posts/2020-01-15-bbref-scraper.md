@@ -1,7 +1,7 @@
 ---
 title: "The Basketball Reference Scraper"
 date: 2020-01-15
-permalink: /posts/2020/01/15/bbref-scraper
+permalink: /projects/2020/01/15/bbref-scraper
 tags:
     - python
     - notebook
