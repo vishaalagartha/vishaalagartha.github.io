@@ -378,7 +378,7 @@ If we go to this page we can clearly see that **Per 36 Minutes** is clearly a
 table on the page. But, this content is loaded dynamically. If we use the Chrome
 inspector we can see this quite clearly:
 
-![Stats Table](/assets/2020-01-16-bbref-scraper_1.png) 
+![Stats Table](/assets/2020-01-15-bbref-scraper_1.png) 
  
 The Per 36 Minutes table is in green, indicating that is loaded dynamically!
 Moreover, let's try and find this table using a GET request: 

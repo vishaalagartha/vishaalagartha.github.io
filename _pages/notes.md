@@ -10,7 +10,7 @@ I'm currently migrating my current blog to this version, so please bear with the
 
 ---
 
-### [2018-05-20: Notes on how to use `tmux`](/posts/2018/05/20/tmux-notes)
+### [2018-05-20: Notes on how to use `tmux`](/notes/2018/05/20/tmux-notes)
 
 `tmux` is my favorite multiplexer. Learn how to use it here.
 ---
