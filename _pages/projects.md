@@ -10,11 +10,16 @@ I'm currently migrating my current blog to this version, so please bear with the
 
 ---
 
-### [2020-01-20: Predicting the Next Coach of the Year](https://vishaalagartha.github.io/projects/2020/01/15/bbref-scraper)
+### [2020-01-15: Predicting the Coach of the Year](/projects/2020/01/22/coy-predictor)
+
+Machine Learning models have been used to predict everything in basketball from
+the All Star Starters to James Harden's next play. One model that has never been
+made is a successful Coach of the Year Predictor. The goal of this project is to
+create such a model. 
 
 ---
 
-### [2020-01-15: The Basketball Reference Scraper](https://vishaalagartha.github.io/projects/2020/01/15/bbref-scraper)
+### [2020-01-15: The Basketball Reference Scraper](/projects/2020/01/15/bbref-scraper)
 
 Basketball Reference is a great resource to aggregate statistics on NBA teams, seasons, players, and games. This package provides methods to acquire data for all these categories in pre-parsed and simplified formats in Python.
 
