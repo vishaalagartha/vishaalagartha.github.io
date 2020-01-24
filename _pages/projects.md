@@ -27,3 +27,21 @@ This post provides a description of the step-by-step process to build a complete
 
 ---
 
+### [2019-11-23: `d3-plot3d`](/projects/2019/11/23/d3-plot3d)
+
+d3-plot3d is a D3 plugin that allows users to plot 3D data, lines, polygons, curves, and surfaces
+
+---
+
+### [2019-07-03: Grouping Game of Thrones Characters using TF-IDF](/projects/2019/07/03/got-clustering)
+
+As the show comes to an end, let's do some some NLP to group Game of Thrones characters using Term Frequency-Inverse Document Frequency
+
+---
+
+### [2019-06-24: Clustering NBA Teams using K-Means](/projects/2019/06/24/nba-teams-clustering)
+
+NBA teams are often grouped by era like the 'early 80's' or 'the modern pace and space'. Can we create such abstractions around teams? This post investigates the theory.
+
+---
+
