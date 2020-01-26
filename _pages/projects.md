@@ -33,6 +33,32 @@ d3-plot3d is a D3 plugin that allows users to plot 3D data, lines, polygons, cur
 
 ---
 
+### [2019-11-10: Visualizing NBA Team Standings Change](/projects/2019/11/10/standing-change)
+
+A cool visualization using d3 of NBA team standings changes over the past few decades.
+
+---
+
+### [2019-11-05: Plotting the NBA Efficiency Landscape](/projects/2019/11/05/plotting-efficiency-landscape)
+
+How can we visualize the NBA Efficiency Landscape? How do teams compare according Net Rating, Offensive Rating, and Defensive Rating? Let's use Bokeh, a fancy Python plotting library to explore.
+
+---
+
+### [2019-10-14: Unicorn Hunting in the NBA](/projects/2019/10/14/unicorn-hunting)
+
+The Ringer has released it's list of [Unicorns](https://www.theringer.com/nba/2019/10/8/20899215/unicorn-rankings-2019-20) in the NBA. Is this a reasonable list objectively?
+
+In this post, I explore what it means to be a *unicorn* in the NBA and compute my own unicorns to compare them against The Ringer's.
+
+---
+
+### [2019-09-01: Understanding Marginal Contributions of NBA players using Shapley Values](/projects/2019/09/01/nba-shapley)
+
+With all these advanced stats, we still don't know how to quantify NBA players in a group setting. How much does player X contribute to the team? How much does player Y contribute to the starting 5? This project aims to answer these types of questions using Game Theory.
+
+---
+
 ### [2019-07-03: Grouping Game of Thrones Characters using TF-IDF](/projects/2019/07/03/got-clustering)
 
 As the show comes to an end, let's do some some NLP to group Game of Thrones characters using Term Frequency-Inverse Document Frequency

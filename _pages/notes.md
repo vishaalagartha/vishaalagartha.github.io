@@ -14,6 +14,13 @@ I'm currently migrating my current blog to this version, so please bear with the
 My notes on creating Artificial Neural Networks in a snap using Tensorflow 2.0
 
 ---
+
+### [2020-01-04: Data Visualization in Python](/notes/2020/01/04/data-visualization-python)
+
+My notes on using matplotlib, seaborn, and pandas in Python to create simple, basic visualizations for different data formats.
+
+
+---
 ### [2019-12-10: Free Throw Drop Off](/notes/2019/12/10/free-throw-drop-off)
 
 The G-League is experimenting with single free throws. What are the potential ramifications of implementing this rule in the NBA? 
@@ -49,6 +56,12 @@ Notes on Logistic Regression theory, advantages, disadvantages and implementatio
 
 ---
 
+### [2019-05-07: Looking at large defecits and NBA Teams](/notes/2019/05/07/nba-defecits)
+
+People consider the MOV such an important statistic. What do defecits look like for each NBA team this season?
+
+---
+
 ### [2019-05-03: Linear Regression](/notes/2019/05/03/linear-regression)
 
 Notes on Linear Regression theory, advantages, disadvantages and implementations in Python
@@ -69,10 +82,15 @@ I'm starting to work with a company in the Blockchain industry. Here are some in
 
 ### [2018-07-04: Recovery from `git reset --hard`](/notes/2018/07/04/git-reset-hard)
 
-Uh oh. You've done it. Out of frustration you've typed the dreaded `git reset --hard` command. What next?
+Uh oh. You've done it. Out of frustration you've typed the dreaded: 
+```bash
+$ git reset --hard
+```
+
+command. What next?
 ---
 
 ### [2018-05-20: Notes on how to use `tmux`](/notes/2018/05/20/tmux-notes)
 
-`tmux` is my favorite multiplexer. Learn how to use it here.
+tmux is my favorite multiplexer. Learn how to use it here.
 ---
