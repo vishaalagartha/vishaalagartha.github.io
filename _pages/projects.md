@@ -71,3 +71,16 @@ NBA teams are often grouped by era like the 'early 80's' or 'the modern pace and
 
 ---
 
+### [2019-05-13: Understanding Player Activity using NBA Game Logs](/projects/2019/05/13/player-activity)
+
+People often criticize Andrew Wiggins or Devin Booker as players who *disappear* during stretches of the game.
+
+How can we understand how *active* a player is? This post scrapes and visualizes player occurrences in NBA game logs to see how active players are.
+
+---
+
+### [2019-02-05: Exploring Market Inefficiencies: Perimeter Defense](/projects/2019/02/05/market-inefficiencies)
+
+Let's test the theory of Perimeter Defense as a market inefficiency in NBA sports gambling. 
+
+---
