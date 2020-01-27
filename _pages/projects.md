@@ -5,9 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# NOTE:
-I'm currently migrating my current blog to this version, so please bear with the lack of content!
-
 ---
 
 ### [2020-01-15: Predicting the Coach of the Year](/projects/2020/01/22/coy-predictor)

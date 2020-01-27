@@ -5,5 +5,16 @@ permalink: /rockclimbing/
 author_profile: true
 ---
 
-# NOTE:
-I'm currently migrating my current blog to this version, so please bear with the lack of content!
+Here's my current outdoor [Tick List and Experience](/ticklist).
+
+Here are some more quantitative [Goals](/climbing-goals).
+
+# Blog
+
+---
+
+### [2020-01-26: A Weekend of Struggling in Santa Barbara](/rockclimbing/2020/01/26/santa-barbara)
+
+A brutally hard and humbling weekend in San Luis Obispo and Potter's Point. Lots of lessons learned and lots of projects remain!
+
+---

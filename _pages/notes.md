@@ -5,9 +5,6 @@ permalink: /notes/
 author_profile: true
 ---
 
-# NOTE:
-I'm currently migrating my current blog to this version, so please bear with the lack of content!
-
 ---
 ### [2020-01-07: TensorFlow ANN's Cheatsheet](/notes/2020/01/07/tensorflow-anns)
 
