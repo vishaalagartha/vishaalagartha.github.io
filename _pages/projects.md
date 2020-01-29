@@ -5,9 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 
+### [2020-01-29: Analyzing Voter Fatigue in NBA Individual Awards](/projects/2020/01/29/voter-fatigue)
+
+Halfway through the season, we start analyzing individual award candidates. 
+In 2020, we have 2 candidates for MVP and DPOY in Giannis Antetokounmpo and Rudy Gobert who look more and more likely to repeat. Yet, detractors say that voters will tend away from these candidates due to **voter fatigue**. What is voter fatigue and how does much does it affect the individual awards? 
+The goal of this project is to analyze the voter fatigue phenomenon.
+
 ---
 
-### [2020-01-15: Predicting the Coach of the Year](/projects/2020/01/22/coy-predictor)
+### [2020-01-22: Predicting the Coach of the Year](/projects/2020/01/22/coy-predictor)
 
 Machine Learning models have been used to predict everything in basketball from
 the All Star Starters to James Harden's next play. One model that has never been
