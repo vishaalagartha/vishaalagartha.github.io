@@ -95,9 +95,9 @@ So the two data points we compute are 21.2-19.8 = 0.4, and 0.831-0.704=0.127
 We then plot the difference in the Points Share as a function of the statistic's
 difference and fit a regression line.
 
-Finally, we find the y-intercept of this regression line.
+Finally, we find the x-intercept of this regression line.
 
-This y-intercept measures how much better the candidate must perform **if they
+This x-intercept measures how much better the candidate must perform **if they
 were to maintain their performance from their previous year AND receive the same
 points share**.
 
