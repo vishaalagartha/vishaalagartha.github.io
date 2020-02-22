@@ -18,3 +18,9 @@ Here are some more quantitative [Goals](/climbing-goals).
 A brutally hard and humbling weekend in San Luis Obispo and Potter's Point. Lots of lessons learned and lots of projects remain!
 
 ---
+
+### [2020-02-01: Short Day Trip to Yosemite](/rockclimbing/2020/02/01/yosemite)
+
+A short, but successful day trip to Yosemite.
+
+---

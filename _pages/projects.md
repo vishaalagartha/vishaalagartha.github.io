@@ -56,6 +56,13 @@ In this post, I explore what it means to be a *unicorn* in the NBA and compute m
 
 ---
 
+### [2019-10-02: Moving the Three Point Line](/projects/2019/10/02/moving-three-line)
+
+With all this talk of moving the three point line backward due to the modern three point revolution, I decided to explore how the top 3-pt shooters would be affected.
+
+
+---
+
 ### [2019-09-01: Understanding Marginal Contributions of NBA players using Shapley Values](/projects/2019/09/01/nba-shapley)
 
 With all these advanced stats, we still don't know how to quantify NBA players in a group setting. How much does player X contribute to the team? How much does player Y contribute to the starting 5? This project aims to answer these types of questions using Game Theory.
