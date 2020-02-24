@@ -3,6 +3,15 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+
+---
+
+### [2020-02-24: threadalytics](/projects/2020/02/14/threadalytics)
+
+I love [r/nba](https://www.reddit.com/r/nba/) and NBA subreddits in general. The goal of this project was to analyze Game Threads and provide sentiment analysis on individual Game Threads.
+
+Note that I will not be posting explanations for this post as I want to keep this project under wraps.
+
 ---
 
 ### [2020-01-29: Analyzing Voter Fatigue in NBA Individual Awards](/projects/2020/01/29/voter-fatigue)
