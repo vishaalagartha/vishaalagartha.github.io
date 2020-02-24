@@ -24,3 +24,15 @@ A brutally hard and humbling weekend in San Luis Obispo and Potter's Point. Lots
 A short, but successful day trip to Yosemite.
 
 ---
+
+### [2020-02-17: Firefall Weekend at Yosemite](/rockclimbing/2020/02/17/yosemite)
+
+An amazing, but short-lived weekend at Yosemite (spoiler alert - I took my first big fall)
+
+---
+
+### [2020-02-22: Day Trip to Sunrise Rocks](/rockclimbing/2020/02/22/sunrise)
+
+Hidden local Bay Area gem found! 2 moderate sends and 2 new projects unlocked.
+
+---
