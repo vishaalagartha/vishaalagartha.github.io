@@ -6,7 +6,16 @@ author_profile: true
 
 ---
 
-### [2020-02-24: threadalytics](/projects/2020/02/14/threadalytics)
+### [2020-02-25: Analyzing Playoff vs. Regaular Season Play Types](/projects/2020/02/25/playtype)
+
+Analysts and old timers say that the *game slows down* in the playoffs. They argue that certain offenses won't work in the playoffs.
+
+This post investigates this theory using Synergy Play Type data from 2015 onward.
+
+
+---
+
+### [2020-02-24: threadalytics](/projects/2020/02/24/threadalytics)
 
 I love [r/nba](https://www.reddit.com/r/nba/) and NBA subreddits in general. The goal of this project was to analyze Game Threads and provide sentiment analysis on individual Game Threads.
 
