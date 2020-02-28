@@ -3,7 +3,13 @@ layout: archive
 title: "Notes"
 permalink: /notes/
 author_profile: true
+
 ---
+### [2020-02-27: NBA Player Development Timelines: Guards vs. Wings](/notes/2020/02/27/player-development)
+
+There was a recent [debate]((https://twitter.com/samesfandiari/status/1231947582051454982)) on which NBA position takes the longest to develop.
+
+This post analyzes the timeline of improvement of Guards vs. Wings for their first 3 years.
 
 ---
 ### [2020-01-07: TensorFlow ANN's Cheatsheet](/notes/2020/01/07/tensorflow-anns)
