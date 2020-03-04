@@ -5,6 +5,11 @@ permalink: /notes/
 author_profile: true
 
 ---
+### [2020-03-04: Analyzing Wear and Tear of the Top Regular Season Teams](/notes/2020/03/04/wear-tear)
+
+People are questioning whether the Bucks should go for 70 wins. This post looks into the wear and tear on 70+ win teams using new Second Spectrum tracking data.
+
+---
 ### [2020-02-27: NBA Player Development Timelines: Guards vs. Wings](/notes/2020/02/27/player-development)
 
 There was a recent [debate]((https://twitter.com/samesfandiari/status/1231947582051454982)) on which NBA position takes the longest to develop.
