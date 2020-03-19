@@ -5,18 +5,6 @@ permalink: /resume/
 author_profile: true
 ---
 
----
-
-Education
-=========
-### B.S. in Computer Science from University of California, Los Angeles
-
-* Graduation Date: June 2019
-* Cumulative GPA: 3.834/4.000
-* Awards: 5 times on UCLA Engineering School's Dean's List, Graduated with Summa Cum Laude Honors
-
----
-
 Work Experience
 ===============
 
@@ -53,10 +41,6 @@ Work Experience
   - Created data scraping iOS and Android mobile apps using React Native, Java, and Objective-C 
   - Helped develop distributed systems tracing infrastructure for logging Remote Procedural Calls
 
-      UCLA EHEALTH RESEARCH LAB | ANDROID DEV FOR ACCUMULATING DATA
-      Sept 2017 – Dec 2018 | Los Angeles, CA
-      • WorkingondevelopinganAndroidSmartwatchdatacollectionapplication • PerforminganalyticsondatausingMachineLearning
-
 ## UCLA E-Health Research Lab
 
 ### Android Developer for Accumulating Data
@@ -76,6 +60,29 @@ Work Experience
 ### Location: Berkeley, CA
   - Developed front end website for PredictEV using React, Redux, and Recompose
   - PredictEV is a blockchain-powered, prediction-focused social network
+
+
+---
+
+Education
+=========
+### B.S. in Computer Science from University of California, Los Angeles
+
+* Graduation Date: June 2019
+* Cumulative GPA: 3.834/4.000
+* Awards: 5 times on UCLA Engineering School's Dean's List, Graduated with Summa Cum Laude Honors
+
+---
+
+Projects
+========
+NOTE: This is a list of my proudest projects. For a complete list, please refer to my [projects](/projects) page.
+
+  - Threadalytics - Basketball Game Thread Analysis - https://threadalytics.com (Sentiment Analysis, Data Visualization, Frontend Development, Backend Development)(Work in progress) Using game thread comments from Reddit, I created a sentiment model to capture fan mood for each game of the regular season. Tech: Python, TensorFlow, ReactJS, NodeJS
+  - Prism Algorithm Visualization (Data Visualization) - Modeled the evolution of the Longest Chain Blockchain Protocol into the novel award-winning Prism Blockchain Protocol: https://arxiv.org/abs/1810.08092. Visualization can be found at www.trifectachain.com/trifecta. Tech: ReactJS, Javascript, D3JS.
+  - Coded Merkle Tree Visualization (Data Visualization)Created a visualization describing the motivation for and benefits of a coded-merkle tree using D3JS. Full details can be found at the paper: https://arxiv.org/abs/1910.01247 presented at multiple blockchain conferences. Tech: ReactJS, Javascript, D3JS.
+  - Basketball Reference Scraper (Data Analytics, Data Scraping)Basketball Reference is a great resource to aggregate statistics on NBA teams, seasons, players, and games. I created a package that provides methods to acquire data for all these categories in pre-parsed and simplified formats in Python used by many avid analysts. Library can be found at github.com/vishaalagartha/basketball reference scraper. Tech: Python
+  - d3-plot3d (Web Development, Data Visualization)Created a D3JS plugin that allows users to plot 3D data, lines, polygons, curves, and surfaces. Tech: JavaScript
 
 ---
 
