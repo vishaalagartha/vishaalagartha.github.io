@@ -6,6 +6,26 @@ author_profile: true
 
 ---
 
+### [2020-03-21: JavaScript Fundamentals](/notes/2020/03/21/javascript-fundamentals)
+
+Notes on JavaScript fundamentals. Topics include:
+* Function parameters
+* `const` vs. `let` vs `var`
+* `this`
+* Promises
+* Binding
+* Closures
+
+---
+
+### [2020-03-12: Building a Subreddit Simulator](/notes/2020/03/12/subreddit-simulator)
+
+Trying to learn about text generation using neural networks, I tried to create a subreddit simulator.
+
+The results were underwhelming, but it was a great learning process that I plan to build on. Note that this is just an introductory piece on *how* text generation works. For a more extensive toolkit I recommend using [GPT-2](https://openai.com/blog/better-language-models/).
+
+---
+
 ### [2020-03-12: Building a Subreddit Simulator](/notes/2020/03/12/subreddit-simulator)
 
 Trying to learn about text generation using neural networks, I tried to create a subreddit simulator.
