@@ -6,6 +6,15 @@ author_profile: true
 
 ---
 
+### [2020-03-23: Simulating NBA Player Interviews using GPT-2](/projects/2020/03/23/gpt2)
+
+I've been trying to create better language models than the standard technique of text generation using Recurrent Neural Networks.
+
+I realized that this is simply impossible with the given resources and amount of data I have, so I opted to use [Open AI's GPT-2 model](https://openai.com/blog/better-language-models/), a more complex version of the standard model I created [here](https://vishaalagartha.github.io/notes/2020/03/12/subreddit-simulator). The results were quite satisfying and interesting.
+
+
+---
+
 ### [2020-02-25: Analyzing Playoff vs. Regaular Season Play Types](/projects/2020/02/25/playtype)
 
 Analysts and old timers say that the *game slows down* in the playoffs. They argue that certain offenses won't work in the playoffs.
