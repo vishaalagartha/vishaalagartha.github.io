@@ -3,6 +3,11 @@ layout: archive
 title: "Notes"
 permalink: /notes/
 author_profile: true
+---
+
+### [2020-03-31: Software Architecture Fundamentals](/notes/2020/03/31/software-architecture)
+
+Notes for front end noobs looking for a basic understanding of software architecture.
 
 ---
 
