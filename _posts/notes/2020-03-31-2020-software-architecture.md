@@ -52,8 +52,10 @@ quickly and fast.
 
 SQL (relational) databases are tables
   - Use for data consistency, storing relationships, and speed
-Examples: MySQL, PostgresSQL
+  - Use for data that needs to **fast**, but relatively the same across (it's hard to add a column to a SQL db) 
+  - Examples: MySQL, PostgresSQL, (kind of like a Pandas dataframe)
 
 NoSQL (nonrelational) databases are key-value stored
   - Use for lots of requests and scalability
-Examples: MongoDB, Redis
+  - Use for unstructured data that is intuitive (it's easy to add key-value pairs) 
+  - Examples: MongoDB, Redis, JSON
