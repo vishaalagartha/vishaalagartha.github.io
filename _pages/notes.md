@@ -5,7 +5,13 @@ permalink: /notes/
 author_profile: true
 ---
 
-### [2020-03-31: CS Interview Prep Part 1: Data Structure Fundamentals](/notes/2020/04/02/data-structures)
+### [2020-04-04: CS Interview Prep Part 2: Sorting Algorithms](/notes/2020/04/04/sorting-algorithms)
+
+Prepping for a technical interview in CS? Read my guide on Sorting Algorithms.
+
+---
+
+### [2020-04-02: CS Interview Prep Part 1: Data Structure Fundamentals](/notes/2020/04/02/data-structures)
 
 Prepping for a technical interview in CS? Read my guide on Data Structures.
 
