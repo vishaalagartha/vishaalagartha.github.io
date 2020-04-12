@@ -5,6 +5,14 @@ permalink: /notes/
 author_profile: true
 ---
 
+### [2020-04-12: CS Interview Prep Part 3: Tree Traversals](/notes/2020/04/12/tree-traversals)
+
+Prepping for a technical interview in CS? Read my guide on Tree Traversals.
+
+Topics include iterative and recursive solutions to In-Order, Pre-Order, Post-Order, and Level-Order Traversals.
+
+---
+
 ### [2020-04-04: CS Interview Prep Part 2: Sorting Algorithms](/notes/2020/04/04/sorting-algorithms)
 
 Prepping for a technical interview in CS? Read my guide on Sorting Algorithms.
