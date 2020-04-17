@@ -5,6 +5,12 @@ permalink: /notes/
 author_profile: true
 ---
 
+### [2020-04-15: CS Interview Prep Part 4: SQL](/notes/2020/04/15/sql)
+
+Prepping for a technical interview in CS? Read my guide on SQL.
+
+---
+
 ### [2020-04-12: CS Interview Prep Part 3: Tree Traversals](/notes/2020/04/12/tree-traversals)
 
 Prepping for a technical interview in CS? Read my guide on Tree Traversals.
