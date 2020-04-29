@@ -3,6 +3,13 @@ layout: archive
 title: "Notes"
 permalink: /notes/
 author_profile: true
+
+---
+
+### [2020-04-28: CS Interview Prep Part 5: System Design](/notes/2020/04/28/system-design)
+
+Prepping for a technical interview in CS? Read my guide on system design questions.
+
 ---
 
 ### [2020-04-15: CS Interview Prep Part 4: SQL](/notes/2020/04/15/sql)
