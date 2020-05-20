@@ -1,5 +1,5 @@
 # Run the command:
-# jupyter nbconvert --to markdown<notebook_filename>.ipynb --config jekyll.py
+# jupyter nbconvert --to markdown <notebook_filename>.ipynb --config jekyll.py
 
 # modification of config created here: https://gist.github.com/cscorley/9144544
 try:

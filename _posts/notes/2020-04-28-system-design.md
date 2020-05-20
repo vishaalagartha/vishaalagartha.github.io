@@ -52,3 +52,45 @@ short_url: varchar
 Other notes:
   - Decrease load on gateways using Parser/Unparser like Thrift
   - Use Consistent Hashing to store Group ID to User ID mapping
+
+# Design a Newsfeed like Twitter/Instagram/Facebook
+
+* Newsfeed
+  - User sends HTTP request to gateway, which uses a load balancer to asks for user feed service
+  - User feed service asks follow service for followers, then looks to posts service for top posts
+
+# Design Ride Sharing Service like Uber
+
+* Trip Storage
+  - Non relational database
+  - Backup with multiple datacenters and caches to improve latency
+  - Keep archive for analytics
+
+* Customer Driver Matching and Mapping Service
+  - Computing ETA, route requires solving the Traveling Salesman Problem (NP-Complete). 
+  - Use historical data for ETA calculation and split city into smaller parts and use graph algorithm (A* or Dijkstra)
+  - Use car metrics, ratings, etc. to incorporate Driver Matching 
+
+# Design Typeahead/Autocomplete Feature
+
+* Use a trie datastructure (optimizes space and time)
+  - Give each leaf a ranking
+  - Follow a query along the trie and find all children
+  - Sort all children by ranking
+
+* Caching using prefix hashed table
+  - NoSQL since relationships are low
+
+# Design File Sharing System like Dropbox/Google Drive
+
+* Upload/Download
+   - Break files into smaller chunks to reduce bandwidth usage, cloud usage, and parallize processes
+   - Store information of different versions using metadata file
+   - Store on CDNs to reduce latency of download
+
+# Design API Rate Limiter
+
+* Algorithms
+  - Leaky Bucket - FIFO queue where elements added when queue is at max capacity are dropped (i.e. leaked)
+  - Fixed Window - limit the number of requests a user can make for a fixed window size (e.g. 2 req/min)
+  - Sliding Log - remove outdated requests based on fixed size 

@@ -6,6 +6,12 @@ author_profile: true
 
 ---
 
+### [2020-05-19: CS Interview Prep Part 6: System Design Primer](/notes/2020/05/19/system-design-primer)
+
+Prepping for a technical interview in CS? Read my guide on system design basics.
+
+---
+
 ### [2020-04-28: CS Interview Prep Part 5: System Design](/notes/2020/04/28/system-design)
 
 Prepping for a technical interview in CS? Read my guide on system design questions.
