@@ -70,14 +70,6 @@ The results were underwhelming, but it was a great learning process that I plan 
 
 ---
 
-### [2020-03-12: Building a Subreddit Simulator](/notes/2020/03/12/subreddit-simulator)
-
-Trying to learn about text generation using neural networks, I tried to create a subreddit simulator.
-
-The results were underwhelming, but it was a great learning process that I plan to build on. Note that this is just an introductory piece on *how* text generation works. For a more extensive toolkit I recommend using [GPT-2](https://openai.com/blog/better-language-models/).
-
-
----
 ### [2020-03-04: Analyzing Wear and Tear of the Top Regular Season Teams](/notes/2020/03/04/wear-tear)
 
 People are questioning whether the Bucks should go for 70 wins. This post looks into the wear and tear on 70+ win teams using new Second Spectrum tracking data.
