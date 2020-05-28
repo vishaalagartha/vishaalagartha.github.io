@@ -17,6 +17,15 @@ on all our servers. So how can we change code on all servers at once?
 
 Using **clones**. Once we make one server, we can create an image (in AWS terms
 an AMI) which all our servers will launch from whenever they get spun up. 
+
+
+#### Map Reduce
+
+If we have multiple machines, but a massive job, how do we split it up? Via MapReduce.
+
+1) Map - Split input into pieces and perform job
+
+2) Reduce - Combine results of map phase into one result
  
 ### Databases
 
@@ -145,6 +154,28 @@ SQL pros:
 NoSQL pros:
 - flexible data
 - fast queries
+
+### Consistent Hashing
+
+How to add servers to your architecture without losing valuable cached data?
+
+For example, we have 3 servers and user X is being served by server 1:
+
+```
+hash(X) % 3 = 1
+```
+
+Now, if we add another server, the modulo operator messes things up!
+
+```
+hash(X) % 4 !=1
+```
+
+And we lose the valuable cached information.
+
+Instead, imagine our servers in a clockwise ring and requests are being served by the next server clockwise to it.
+
+Now, if we add a server, the only server being affected is the one ONLY after.
  
  
 ## Communication
