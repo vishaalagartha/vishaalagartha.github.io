@@ -6,6 +6,16 @@ author_profile: true
 
 ---
 
+### [2020-05-29: React-Redux Basics](/notes/2020/05/29/react-redux)
+
+Fundamentals of react-redux. Topics include:
+* Directory structure
+* Actions, Action-Creators
+* Reducers
+* connect, mapStateToProps, mapDispatchToProps
+
+---
+
 ### [2020-05-27: CS Interview Prep Part 7: System Design Algorithms](/notes/2020/05/27/system-design-algorithms)
 
 Prepping for a technical interview in CS? Read my guide on system design algorithms.
