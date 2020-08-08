@@ -6,6 +6,14 @@ author_profile: true
 
 ---
 
+### [2020-08-07: NBA Bubble Shooting Differences as of Auguest 7, 2020](/notes/2020/08/07/bubble-shooting)
+
+How have teams fared in the bubble?
+
+Which teams are shooting about their previous 3P% and FG% - a small sample size theater analysis.
+
+---
+
 ### [2020-05-29: React-Redux Basics](/notes/2020/05/29/react-redux)
 
 Fundamentals of react-redux. Topics include:
