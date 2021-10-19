@@ -8,11 +8,22 @@ author_profile: true
 Work Experience
 ===============
 
+## [Wells Fargo Inc.]
+
+### Role: Software Engineer
+
+### Time: May 2020 - Present
+
+### Location: San Francisco, CA
+  - Worked on several high impact customer facing applications, including the redesign of the Wells Fargo homepage (wellsfargo.com) and online banking platforms
+  - Created, modified, and maintained an internal Wells Fargo React Component Library containing more than 30 global reusable components. Utilizing Redux with the help of Immutable.js for state management
+  - Wrote unit, integration, and functional tests for all components using Jest, Enzyme, WebdriverIO and other tools
+
 ## [Trifecta Inc](www.trifecta.com)
 
 ### Role: Full Stack Web Developer and Data Visualization Engineer
 
-### Time: May 2019 - Present
+### Time: May 2019 - March 2020
 
 ### Location: Palo Alto, CA
   - Developed frontend and backend infrastructure for [www.trifectachain.com](www.trifectachain.com)
