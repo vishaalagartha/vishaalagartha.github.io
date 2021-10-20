@@ -8,7 +8,7 @@ author_profile: true
 Work Experience
 ===============
 
-## [Wells Fargo Inc.]
+## [Wells Fargo Inc.](www.wellsfargo.com)
 
 ### Role: Software Engineer
 
