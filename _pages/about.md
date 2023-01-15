@@ -14,7 +14,7 @@ Hi, my name is Vishaal Agartha.
 Welcome to my corner of the Internet.
 ===============================
 
-I'm a 23 year old computer scientist who recently graduated from UCLA. I'm currently working as a software engineer specializing in front-end development at Wells Fargo Inc.  My other passions include rockclimbing and NBA basketball analytics. 
+I'm a 24 year old software engineer working on an M.S. in Software Engineering at Carnegie Mellon University located in the Silicon Valley. Prior to beginning my masters, I spent 2 years working as a software engineer specializing in front-end development at Wells Fargo Inc. after graduating from UCLA with a B.S. in Computer Science. My other passions include rockclimbing and sports analytics. 
 
 On the rockclimbing spectrum, I'm primarily a boulderer. Bouldering consists of short 'problems' compared to sport climbing or even big wall climbing. Routes are typically 20-30 ft off the ground and require anywhere from 10 seconds to a minute of intense movement.
 

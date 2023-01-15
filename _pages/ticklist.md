@@ -5,6 +5,8 @@ permalink: /ticklist/
 author_profile: true
 ---
 
+NOTE: This is an outdated list of my achievements. For an updated version, please visit [my 8a log](https://www.8a.nu/vishaalagartha)
+
 V10
 - [PJ Tight](https://www.instagram.com/p/B27wRykjko_/)
 

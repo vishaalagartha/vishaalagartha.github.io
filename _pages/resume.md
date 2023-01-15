@@ -77,6 +77,11 @@ Work Experience
 
 Education
 =========
+### M.S. in Software Engineering from Carnegie Mellon University, Silicon Valley
+
+* Expected Graduation Date: December 2023
+* Cumulative GPA: 3.78/4.000
+
 ### B.S. in Computer Science from University of California, Los Angeles
 
 * Graduation Date: June 2019
