@@ -1,3 +1,12 @@
+---
+title: "Predicting NBA Games using RNN's"
+date: 2022-01-18
+permalink: /projects/2023/01/18/nba-game-prediction
+tags:
+    - python
+    - notebook
+--- 
+
 ```python
 !nvidia-smi
 ```
