@@ -6,6 +6,17 @@ author_profile: true
 
 ---
 
+### [2022-01-18: Predicting NBA Games using Recurrent Neural Networks](/projects/2023/01/18/nba-game-prediction)
+
+The goal of this project was to create a Recurrent Neural Network to predict NBA game results.
+
+I'm happy to say that my model achieve ~78% accuracy on both training and validation datasets, which performs equivalent to most high level models (such as 538's RAPTOR, ELO, etc).
+
+
+---
+
+---
+
 ### [2020-03-23: Simulating NBA Player Interviews using GPT-2](/projects/2020/03/23/gpt2)
 
 I've been trying to create better language models than the standard technique of text generation using Recurrent Neural Networks.
