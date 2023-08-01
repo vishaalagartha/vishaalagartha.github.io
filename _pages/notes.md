@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-### [2023-07-27: CS Interview Prep Part 7: System Design Algorithms](/notes/2023/06/27/system-design-algorithms)
+### [2023-07-27: CS Interview Prep Part 7: System Design Algorithms](/notes/2023/07/19/system-design-algorithms)
 
 Prepping for a technical interview in CS? Read my guide on system design algorithms.
 
