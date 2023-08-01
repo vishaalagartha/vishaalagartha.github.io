@@ -1,7 +1,7 @@
 ---
 title: "CS Interview Prep Part 1: Data Structure Fundamentals"
-date: 2020-04-02
-permalink: /notes/2020/04/02/data-structures
+date: 2023-05-02
+permalink: /notes/2023/05/02/data-structures
 tags:
 --- 
 

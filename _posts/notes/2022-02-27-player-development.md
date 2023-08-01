@@ -1,7 +1,7 @@
 ---
 title: "Timeline of Player Development: Guards vs. Wings"
-date: 2020-02-27
-permalink: /notes/2020/02/27/player-development
+date: 2022-02-27
+permalink: /notes/2022/02/27/player-development
 tags:
     - python    
     - notebook

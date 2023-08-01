@@ -6,15 +6,25 @@ author_profile: true
 
 ---
 
-### [2020-08-07: NBA Bubble Shooting Differences as of Auguest 7, 2020](/notes/2020/08/07/bubble-shooting)
+### [2023-07-27: CS Interview Prep Part 7: System Design Algorithms](/notes/2023/06/27/system-design-algorithms)
 
-How have teams fared in the bubble?
-
-Which teams are shooting about their previous 3P% and FG% - a small sample size theater analysis.
+Prepping for a technical interview in CS? Read my guide on system design algorithms.
 
 ---
 
-### [2020-05-29: React-Redux Basics](/notes/2020/05/29/react-redux)
+### [2023-7-12: CS Interview Prep Part 6: System Design Primer](/notes/2023/07/12/system-design-primer)
+
+Prepping for a technical interview in CS? Read my guide on system design basics.
+
+---
+
+### [2023-06-28: CS Interview Prep Part 5: System Design](/notes/2023/06/28/system-design)
+
+Prepping for a technical interview in CS? Read my guide on system design questions.
+
+---
+
+### [2023-05-29: React-Redux Basics](/notes/2023/05/29/react-redux)
 
 Fundamentals of react-redux. Topics include:
 * Directory structure
@@ -24,31 +34,13 @@ Fundamentals of react-redux. Topics include:
 
 ---
 
-### [2020-05-27: CS Interview Prep Part 7: System Design Algorithms](/notes/2020/05/27/system-design-algorithms)
-
-Prepping for a technical interview in CS? Read my guide on system design algorithms.
-
----
-
-### [2020-05-19: CS Interview Prep Part 6: System Design Primer](/notes/2020/05/19/system-design-primer)
-
-Prepping for a technical interview in CS? Read my guide on system design basics.
-
----
-
-### [2020-04-28: CS Interview Prep Part 5: System Design](/notes/2020/04/28/system-design)
-
-Prepping for a technical interview in CS? Read my guide on system design questions.
-
----
-
-### [2020-04-15: CS Interview Prep Part 4: SQL](/notes/2020/04/15/sql)
+### [2023-05-15: CS Interview Prep Part 4: SQL](/notes/2023/05/15/sql)
 
 Prepping for a technical interview in CS? Read my guide on SQL.
 
 ---
 
-### [2020-04-12: CS Interview Prep Part 3: Tree Traversals](/notes/2020/04/12/tree-traversals)
+### [2023-05-12: CS Interview Prep Part 3: Tree Traversals](/notes/2023/05/12/tree-traversals)
 
 Prepping for a technical interview in CS? Read my guide on Tree Traversals.
 
@@ -56,25 +48,25 @@ Topics include iterative and recursive solutions to In-Order, Pre-Order, Post-Or
 
 ---
 
-### [2020-04-04: CS Interview Prep Part 2: Sorting Algorithms](/notes/2020/04/04/sorting-algorithms)
+### [2023-05-04: CS Interview Prep Part 2: Sorting Algorithms](/notes/2023/05/04/sorting-algorithms)
 
 Prepping for a technical interview in CS? Read my guide on Sorting Algorithms.
 
 ---
 
-### [2020-04-02: CS Interview Prep Part 1: Data Structure Fundamentals](/notes/2020/04/02/data-structures)
+### [2023-05-02: CS Interview Prep Part 1: Data Structure Fundamentals](/notes/2023/05/02/data-structures)
 
 Prepping for a technical interview in CS? Read my guide on Data Structures.
 
 ---
 
-### [2020-03-31: Software Architecture Fundamentals](/notes/2020/03/31/software-architecture)
+### [2023-03-31: Software Architecture Fundamentals](/notes/2023/03/31/software-architecture)
 
 Notes for front end noobs looking for a basic understanding of software architecture.
 
 ---
 
-### [2020-03-21: JavaScript Fundamentals](/notes/2020/03/21/javascript-fundamentals)
+### [2023-03-21: JavaScript Fundamentals](/notes/2023/03/21/javascript-fundamentals)
 
 Notes on JavaScript fundamentals. Topics include:
 * Function parameters
@@ -86,7 +78,7 @@ Notes on JavaScript fundamentals. Topics include:
 
 ---
 
-### [2020-03-12: Building a Subreddit Simulator](/notes/2020/03/12/subreddit-simulator)
+### [2023-03-12: Building a Subreddit Simulator](/notes/2023/03/12/subreddit-simulator)
 
 Trying to learn about text generation using neural networks, I tried to create a subreddit simulator.
 
@@ -94,35 +86,47 @@ The results were underwhelming, but it was a great learning process that I plan 
 
 ---
 
-### [2020-03-04: Analyzing Wear and Tear of the Top Regular Season Teams](/notes/2020/03/04/wear-tear)
+### [2023-03-04: Analyzing Wear and Tear of the Top Regular Season Teams](/notes/2023/03/04/wear-tear)
 
 People are questioning whether the Bucks should go for 70 wins. This post looks into the wear and tear on 70+ win teams using new Second Spectrum tracking data.
 
 ---
-### [2020-02-27: NBA Player Development Timelines: Guards vs. Wings](/notes/2020/02/27/player-development)
+
+### [2023-02-27: NBA Player Development Timelines: Guards vs. Wings](/notes/2023/02/27/player-development)
 
 There was a recent [debate]((https://twitter.com/samesfandiari/status/1231947582051454982)) on which NBA position takes the longest to develop.
 
 This post analyzes the timeline of improvement of Guards vs. Wings for their first 3 years.
 
 ---
-### [2020-01-07: TensorFlow ANN's Cheatsheet](/notes/2020/01/07/tensorflow-anns)
+
+### [2023-01-07: TensorFlow ANN's Cheatsheet](/notes/2023/01/07/tensorflow-anns)
 
 My notes on creating Artificial Neural Networks in a snap using Tensorflow 2.0
 
 ---
 
-### [2020-01-04: Data Visualization in Python](/notes/2020/01/04/data-visualization-python)
+### [2023-01-04: Data Visualization in Python](/notes/2023/01/04/data-visualization-python)
 
 My notes on using matplotlib, seaborn, and pandas in Python to create simple, basic visualizations for different data formats.
 
 
 ---
-### [2019-12-10: Free Throw Drop Off](/notes/2019/12/10/free-throw-drop-off)
+
+### [2020-12-10: Free Throw Drop Off](/notes/2020/12/10/free-throw-drop-off)
 
 The G-League is experimenting with single free throws. What are the potential ramifications of implementing this rule in the NBA? 
 
 ---
+
+### [2020-08-07: NBA Bubble Shooting Differences as of Auguest 7, 2020](/notes/2020/08/07/bubble-shooting)
+
+How have teams fared in the bubble?
+
+Which teams are shooting about their previous 3P% and FG% - a small sample size theater analysis.
+
+---
+
 ### [2019-10-11: Options Trading](/notes/2019/10/11/options-trading)
 
 Options trading can be daunting and confusing. Here's a simple explanation of the basics.

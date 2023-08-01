@@ -1,7 +1,7 @@
 ---
 title: "Software Architecture Fundamentals"
-date: 2020-03-31
-permalink: /notes/2020/03/31/software-architecture
+date: 2023-03-31
+permalink: /notes/2023/03/31/software-architecture
 tags:
 --- 
 

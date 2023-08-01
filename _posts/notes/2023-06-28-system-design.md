@@ -1,7 +1,7 @@
 ---
 title: "CS Interview Prep Part 5: System Design"
-date: 2020-04-28
-permalink: /notes/2020/04/28/system-design
+date: 2023-06-28
+permalink: /notes/2023/06/28/system-design
 tags:
 --- 
 

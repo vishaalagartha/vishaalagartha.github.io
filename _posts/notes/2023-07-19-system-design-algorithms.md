@@ -1,7 +1,7 @@
 ---
 title: "CS Interview Prep Part 7: System Design Algorithms"
-date: 2020-05-27
-permalink: /notes/2020/05/27/system-design-algorithms
+date: 2023-07-19
+permalink: /notes/2023/07/19/system-design-algorithms
 tags:
 --- 
 # System Design Algorithms

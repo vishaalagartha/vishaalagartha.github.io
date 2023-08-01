@@ -1,7 +1,7 @@
 ---
 title: "Building a Text Generation tool to simulate Subreddit comments"
-date: 2020-03-12
-permalink: /notes/2020/03/12/subreddit-simulator
+date: 2022-03-12
+permalink: /notes/2022/03/12/subreddit-simulator
 tags:
     - python    
     - notebook

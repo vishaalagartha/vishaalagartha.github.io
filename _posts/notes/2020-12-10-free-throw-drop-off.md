@@ -1,7 +1,7 @@
 ---
 title: "Drop Off Between 2nd and 1st Free Throw % for top free throw shooters"
-date: 2019-12-10
-permalink: /notes/2019/12/10/free-throw-drop-off
+date: 2020-12-10
+permalink: /notes/2020/12/10/free-throw-drop-off
 --- 
 
 Recently, on the Hoop Collective Podcast, Kirk Goldsberry discussed the G-League's experiment with the single free throw. Currently, the G-League only shoots 1 free throw valued at 2 points or 3 points if behind the 3-point line.

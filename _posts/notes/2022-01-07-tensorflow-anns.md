@@ -1,7 +1,7 @@
 ---
 title: "Tensorflow 2.0 Artificial Neural Network Cheat Sheet"
-date: 2020-01-07
-permalink: /notes/2020/01/07/tensorflow-anns
+date: 2022-01-07
+permalink: /notes/2022/01/07/tensorflow-anns
 tags:
   - python
   - notebook

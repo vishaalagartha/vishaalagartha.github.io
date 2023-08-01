@@ -1,7 +1,7 @@
 ---
 title: "React Redux Basics"
-date: 2020-05-29
-permalink: /notes/2020/05/29/react-redux
+date: 2023-05-29
+permalink: /notes/2023/05/29/react-redux
 tags:
 --- 
 

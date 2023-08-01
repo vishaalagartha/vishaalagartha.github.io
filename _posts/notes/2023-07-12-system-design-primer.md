@@ -1,7 +1,7 @@
 ---
 title: "CS Interview Prep Part 6: System Design Primer"
-date: 2020-05-19
-permalink: /notes/2020/05/19/system-design-primer
+date: 2023-07-12
+permalink: /notes/2023/07/12/system-design-primer
 tags:
 --- 
 # System Design Primer 

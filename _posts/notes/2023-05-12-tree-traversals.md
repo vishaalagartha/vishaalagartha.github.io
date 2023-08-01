@@ -1,7 +1,7 @@
 ---
 title: "CS Interview Prep Part 3: Tree Traversals"
-date: 2020-04-12
-permalink: /notes/2020/04/12/tree-traversals
+date: 2023-05-12
+permalink: /notes/2023/05/12/tree-traversals
 tags:
 --- 
 # Binary Search Tree Traversals 

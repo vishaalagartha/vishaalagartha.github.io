@@ -1,7 +1,7 @@
 ---
 title: "Data Visualization Using `matplotlib`, `seaborn`, and `pandas`"
-date: 2020-01-04
-permalink: /notes/2020/01/04/data-visualization-python
+date: 2021-01-04
+permalink: /notes/2021/01/04/data-visualization-python
 tags:
     - python    
     - - notebook

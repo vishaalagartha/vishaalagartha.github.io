@@ -1,7 +1,7 @@
 ---
 title: "CS Interview Prep Part 2: Sorting Algorithms"
-date: 2020-04-04
-permalink: /notes/2020/04/04/sorting-algorithms
+date: 2023-05-04
+permalink: /notes/2023/05/04/sorting-algorithms
 tags:
 --- 
  

@@ -1,7 +1,7 @@
 ---
 title: "JavaScript Fundamentals"
-date: 2020-03-21
-permalink: /notes/2020/03/21/javascript-fundamentals
+date: 2023-03-21
+permalink: /notes/2023/03/21/javascript-fundamentals
 tags:
 --- 
 
