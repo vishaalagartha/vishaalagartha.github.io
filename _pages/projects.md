@@ -6,6 +6,16 @@ author_profile: true
 
 ---
 
+### [2024-01-17: Threadalytics - A Real Time NBA Sentiment Analysis Platform](/projects/2024/01/17/threadalytics)
+
+Watching NBA games goes hand-in-hand with chatting and posting on social media sites like Twitter on Reddit.
+
+This project aims to capture Reddit sentiment of NBA players, teams, and coaches during NBA games.
+
+---
+
+---
+
 ### [2022-01-18: Predicting NBA Games using Recurrent Neural Networks](/projects/2023/01/18/nba-game-prediction)
 
 The goal of this project was to create a Recurrent Neural Network to predict NBA game results.

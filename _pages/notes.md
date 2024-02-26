@@ -6,6 +6,13 @@ author_profile: true
 
 ---
 
+### [2023-09-26: LeetCode Hard List](/notes/2023/09/26/leetcode-hard)
+
+A guide to some of the most popular hard LeetCode problems
+
+
+---
+
 ### [2023-07-27: CS Interview Prep Part 7: System Design Algorithms](/notes/2023/07/19/system-design-algorithms)
 
 Prepping for a technical interview in CS? Read my guide on system design algorithms.
@@ -187,11 +194,12 @@ Uh oh. You've done it. Out of frustration you've typed the dreaded:
 ```bash
 $ git reset --hard
 ```
-
 command. What next?
+
 ---
 
 ### [2018-05-20: Notes on how to use `tmux`](/notes/2018/05/20/tmux-notes)
 
 tmux is my favorite multiplexer. Learn how to use it here.
+
 ---
