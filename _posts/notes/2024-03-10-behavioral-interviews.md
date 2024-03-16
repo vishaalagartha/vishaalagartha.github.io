@@ -4,7 +4,7 @@ date: 2023-03-10
 permalink: /notes/2024/03/10/behavioral-interviews
 tags:
     - behavioral
-    - interview
+    - interview prep
 --- 
 
 Behavioral interviews are tricky. They aren't as straightforward as technical interviews and some people simply aren't too good at them. The main differences are:
@@ -73,4 +73,6 @@ Hot take. I'd rather be controversial and stick out in an interviewer's mind rat
 
 Finally, I want to share a screenshot of my interview prep notes. Take a look and get and idea of what you should prepare. Take note that this document is around ~3 pages long in reality.
 
-![alt text](/images/behavioral_notes.png)
+![A picture of my notes for your pleasure](/images/behavioral_notes.png)
+
+*A picture of my notes for your pleasure*

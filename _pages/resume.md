@@ -8,7 +8,7 @@ author_profile: true
 Work Experience
 ===============
 
-## [Wells Fargo Inc.](www.wellsfargo.com)
+## Wells Fargo Inc.
 
 ### Role: Full Stack Web Developer
 
@@ -19,60 +19,15 @@ Work Experience
   - Backend: Led team of 3+ internal developers to maintain continuous delivery and deployment of deliverables through NodeJS, Webpack, and Jenkins
   - Wrote unit, integration, and functional tests for all components using Jest, Enzyme, WebdriverIO and other tools
 
-## [Trifecta Inc](www.trifecta.com)
+## Trifecta Inc
 
-### Role: Full Stack Web Developer and Data Visualization Engineer (Contract)
+### Role: Full Stack Web Developer and Data Visualization Engineer
 
 ### Time: January 2019 - January 2020
 
 ### Location: Palo Alto, CA
   - Web Development: Designed and managed backend and frontend infrastructure for company website employing React/Redux combined with NodeJS and ExpressJS
   - Data Visualization: Leveraged D3JS to visualize a novel Blockchain algorithm purposed in 10+ VC presentations and academic conferences
-
- 
-## Applied Research Protocol
-
-### Role: Blockchain Simulator Constructor
-
-### Time: May 2018 - January 2019
-
-### Location: University of Illinois, Urbana-Champaign and University of California, Los Angeles
-  - Modified base Tendermint blockchain protocol in Go to fit novel company algorithm termed "Prism" to analyze consensus success and performance
-  - Built blockchain simulator in Python to test various consensus algorithms later used in startup
-  - Executed tests to obtain metrics of various consensus algorithms presented in "Deconstructing the Blockchain to Approach Physical Limits" (Source: arXiv:1810.08092)
-
-
-## Simigence Inc.
-
-### Role: Mobile Developer and Backend Engineer
-
-### Time: June 2018 - September 2018
-
-### Location: Berkeley, CA
-  - Implemented unsupervised learning techniques (K-Means Clustering algorithm) to capture users' locations
-  - Engineered data scraping iOS and Android mobile apps written in React Native, Java, and Objective-C
-  - Formalized logging mechanism for tracking remote procedural calls across AWS microservice architecture of 20+ nodes
-
-
-## UCLA E-Health Research Lab
-
-### Role: Android Developer for Accumulating Data
-
-### Time: September 2018 - December 2018
-
-### Location: Los Angeles, CA
-  - Worked on developing Android Smarwatch data collection application
-  - Perform analytics on data to determine athlete health and conditioning
-
-## PredictEV
-
-### Frontend Web Developer
-
-### Time: September 2018 - October 2018
-
-### Location: Berkeley, CA
-  - Developed front end website for PredictEV using React, Redux, and Recompose
-  - PredictEV is a blockchain-powered, prediction-focused social network
 
 
 ---
@@ -95,7 +50,6 @@ Education
 
 Projects
 ========
-NOTE: This is a list of my proudest projects. For a complete list, please refer to my [projects](/projects) page.
 
  - Gamified Student Evaluation Platform - Designed and constructed gamified platform to improve student peer review experience at Carnegie Mellon University.  Product is currently under end user testing at CMU under professor supervision. Tech: Django, React, Redux, AWS EC2, AWS S3, AWS RDS
  - Relational DALL-E - Enhanced the existing Deep Learning DALL-E image-to-text generative model to be more spatially aware using Relational Networks. Model improved validation accuracy from 25.5% to 31.7% - a 6.2% increase in accuracy Tech: Python, Pytorch
@@ -109,7 +63,5 @@ NOTE: This is a list of my proudest projects. For a complete list, please refer 
 
 Extracurriculars
 ================
-- 2019-ongoing: Writer for Nylon Calculus NBA Analytics Website
-- 2019-ongoing: Part time rockclimbing coach and routesetter at Bridges Rock Gym, El Cerrito, CA
 - 2017-ongoing: Upsilon Pi Epsilon Member
 - 2017-ongoing: Tau Beta Pi Member
