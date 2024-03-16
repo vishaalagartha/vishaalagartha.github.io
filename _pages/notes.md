@@ -7,7 +7,7 @@ author_profile: true
 
 ### [2024-03-15: Sliding Window Advanced Technique - At most k, k-1](/notes/2024/03/15/sliding-window-k)
 
-My guide to prepping and acing the Software Engineer Behavioral Interview.
+A niche technique in solving sliding window problems.
 
 ---
 
