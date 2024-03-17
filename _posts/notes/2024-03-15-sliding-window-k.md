@@ -13,6 +13,8 @@ The sliding window is a common technique used to solve questions relating to *co
 Typically, the problem is stated like one of the following:
 
 > Find the length of the longest/shortest substring/subarray satisfying &lt;some condition&gt;.
+
+
 > Count the number substrings/subarrays satisfying &lt;some condition&gt;.
 
 It's trivial to come up with a `O(n^2)` solution to such problems - simply iterate overall subarrays/substrings. But the sliding window
