@@ -3,12 +3,7 @@ title: "Threadalytics - An NBA Sentiment Analysis Platform"
 date: 2024-01-17
 permalink: /projects/2024/01/17/threadalytics
 tags:
-    - ReactJS
-    - AWS
-    - D3JS
-    - Python
-    - PRAW
-    - Scraping
+    - Projects
 --- 
 
 The goal of this project was to capture the recent sentiments from r/nba about NBA players and teams.
