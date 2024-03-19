@@ -3,6 +3,15 @@ layout: archive
 title: "Notes"
 permalink: /notes/
 author_profile: true
+
+---
+
+### [2024-03-18: Sum of distances in an array](/notes/2024/03/18/sum-of-distances)
+
+A quick solution to a pattern I've often encountered in Leetcode contest problems.
+
+How to find the sum of absolute differences between all values in an array and a new item.
+
 ---
 
 ### [2024-03-15: Sliding Window Advanced Technique - At most k, k-1](/notes/2024/03/15/sliding-window-k)
