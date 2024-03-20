@@ -3,6 +3,11 @@ layout: archive
 title: "Notes"
 permalink: /notes/
 author_profile: true
+---
+
+### [2024-03-20: Beyond Binary Search - Searching for Ranges](/notes/2024/03/20/binary-search-range)
+
+A less common use case for binary search that I recently encountered in an online assessment!
 
 ---
 
