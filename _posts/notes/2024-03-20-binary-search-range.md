@@ -78,7 +78,7 @@ def shipWithinDays(self, weights: List[int], days: int) -> int:
     return lo
 {% endhighlight %}
 
-In this example, we are not given the search range, but we must deduce that the search space is limited and the search is monotonic. Another classic problem of this type is [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/).
+In this example, we are not given the search range, but we must deduce that the search space is limited and the search is monotonic. Other classic problems of this type are [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) or [House Robber IV](https://leetcode.com/problems/house-robber-iv).
 
 ### More Advanced Application
 
