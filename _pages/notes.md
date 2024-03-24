@@ -5,6 +5,12 @@ permalink: /notes/
 author_profile: true
 ---
 
+### [2024-03-24: Lazy Removal - How to make heap operations (almost) O(1)](/notes/2024/03/24/heap-dict)
+
+You need a heap to get the minimum/maximum, but you also need to update and get values from it constant time. How can you go about doing this.
+
+---
+
 ### [2024-03-20: Beyond Binary Search - Searching for Ranges](/notes/2024/03/20/binary-search-range)
 
 A less common use case for binary search that I recently encountered in an online assessment!
