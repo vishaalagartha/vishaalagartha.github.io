@@ -3,6 +3,13 @@ layout: archive
 title: "Notes"
 permalink: /notes/
 author_profile: true
+
+---
+
+### [2024-03-25: Digit Dynamic Programming](/notes/2024/03/25/digit-dp)
+
+How to solve the "Count the number of positive integers between `L` and `R` that satisfy *condition*" problem.
+
 ---
 
 ### [2024-03-24: Lazy Removal - How to make heap operations (almost) O(1)](/notes/2024/03/24/heap-dict)
