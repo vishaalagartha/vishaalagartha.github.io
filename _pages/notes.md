@@ -3,6 +3,11 @@ layout: archive
 title: "Notes"
 permalink: /notes/
 author_profile: true
+---
+
+### [2024-03-25: Chebyshev Distance - How to Transform 2d problems to 1d](/notes/2024/03/31/chebyshev-distance)
+
+Turn your slow 2d geometry problems into 1d `O(nlogn)` solutions.
 
 ---
 
