@@ -7,8 +7,7 @@ author_profile: true
 
 ### [2024-04-03: Basics of Bitmasking - From Backtracking to Dynamic Programming](/notes/2024/04/02/bitmasking-basics)
 
-Turn your slow 2d geometry problems into 1d `O(nlogn)` solutions.
-
+How to maintain an array in your dynamic programming 'state' to go from TLE to performant.
 
 ---
 
